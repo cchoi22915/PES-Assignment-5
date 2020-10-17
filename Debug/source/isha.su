@@ -1,0 +1,5 @@
+isha.c:29:13:ISHAProcessMessageBlock	112	static
+isha.c:83:13:ISHAPadMessage	16	static
+isha.c:131:6:ISHAReset	16	static
+isha.c:148:6:ISHAResult	24	static
+isha.c:172:6:ISHAInput	24	static
